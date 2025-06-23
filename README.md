@@ -8,7 +8,7 @@ This is a structured roadmap of my progress in mastering Data Structures & Algor
 
 ### Week 1-2: Basics
 - [x] Time & Space Complexity
-- [x] Big-O Notation
+- [] Big-O Notation
 - [ ] Recursion
 - [ ] Sorting Algorithms (Bubble, Selection, Insertion, Merge, Quick)
 
